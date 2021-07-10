@@ -6,6 +6,8 @@ The `RandomWayPointModel.jl` contains the implementation code. This file can be 
 for interactively plotting the model. Refer https://juliapackages.com/p/pluto to know more about
 Pluto.
 
+To know more about Random Waypoint Model, refer these [slides](https://docs.google.com/presentation/d/148avUdF_T_5gBYcQuTe0Mj9IyB0O1IcWhwam9V269iE/edit?usp=sharing).
+
 ## Preview
 
 Random Waypoint model trace for one node:
